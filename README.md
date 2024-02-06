@@ -1,8 +1,3 @@
-﻿
-
-|![](Aspose.Words.3d9ec5cc-705f-4ecb-b697-6ddd5a9e899e.001.png)|![](Aspose.Words.3d9ec5cc-705f-4ecb-b697-6ddd5a9e899e.002.png)|
-| - | - |
-
 **Lab. Exercise (LE):** 
 
 
